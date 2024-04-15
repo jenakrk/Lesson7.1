@@ -1,0 +1,13 @@
+.Movies {  
+    margin: 30px;
+}
+.Movie{
+    margin: 15px;
+    background-color: grey;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+h4 {
+    color: orange;
+}
